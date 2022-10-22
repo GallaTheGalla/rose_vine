@@ -4,7 +4,7 @@ name,Rose VineS
 
 craftman,Galla
 craftmanw,Galla
-craftmanurl,
+craftmanurl,https://raw.githubusercontent.com/GallaTheGalla/rose_vine/main/rose_vine_s/
 
 use_self_alpha,1
 use_input_alpha,1
