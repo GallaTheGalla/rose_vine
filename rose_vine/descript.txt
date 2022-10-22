@@ -4,7 +4,8 @@ name,Rose Vine
 
 craftman,Galla
 craftmanw,Galla
-craftmanurl,https://raw.githubusercontent.com/GallaTheGalla/rose_vine/main/rose_vine/
+craftmanurl,https://GallaTheGalla.github.io/gtg-ghosts/
+homeurl,https://raw.githubusercontent.com/GallaTheGalla/rose_vine/main/rose_vine/
 
 use_self_alpha,1
 use_input_alpha,1
