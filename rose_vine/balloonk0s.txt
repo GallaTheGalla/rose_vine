@@ -1,0 +1,3 @@
+anchor.font.color.r,038
+anchor.font.color.g,127
+anchor.font.color.b,000

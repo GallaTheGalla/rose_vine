@@ -1,0 +1,7 @@
+anchor.font.color.r,038
+anchor.font.color.g,127
+anchor.font.color.b,000
+
+sstpmarker.filename,thorn
+marker.filename,thorn
+onlinemarker.filename,online_thorn
